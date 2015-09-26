@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButton" >
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="MyButton.orange">
+
+        <item name="android:background">#ffd15e</item>
+    </style>
+
+    <style name="MyButton.red">
+
+        <item name="android:background">#ff3567</item>
+        <item name="android:textColor">#fffef4</item>
+    </style>
+</resources>
